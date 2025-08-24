@@ -1,7 +1,39 @@
-# Implementasi-Piramid-DIKW
-Implementasi piramid DIKW pada produk kosmetik.
-Data= Perusahaan kosmetik mengumpulkan data dasar, misalnya harga lip cream, biaya produksi serum, jumlah unit skincare yang terjual, rating bintang dari para pembeli, serta daftar harga dan klaim produk dari merek pesaing.
-Information: Data tersebut lalu diolah menjadi informasi, contohnya membagi produk ke kategori Entry (misal lip balm murah Rp20–50 ribu), Core (serum Rp100–150 ribu), dan Premium (moisturizer Rp400 ribu ke atas). Perusahaan juga menghitung margin/persentase keuntungan tiap produk, merangkum ulasan pelanggan (misalnya produk “terasa lengket” atau “ringan di kulit”), dan membandingkan posisi harga dengan merek kompetitor.
-Knowledge: Dari informasi tadi muncul pola, misalnya lip balm Entry paling laris tapi untungnya kecil, serum Core paling viral dan mempunyai pembeli yang paling sering repeat order, sedangkan moisturizer Premium hanya sedikit terjual tapi membuat merek terlihat lebih mewah dan dipercaya.
-Wisdom: Berdasarkan pengetahuan itu, perusahaan membuat keputusan strategis. Misalnya, lip balm Entry tetap dijual untuk menarik banyak pembeli baru, serum Core dijadikan fokus utama penjualan karena paling menguntungkan, dan ampoule Premium dipasarkan secara terbatas untuk menjaga citra brand. Promosi pun diatur dengan cara yang berbeda: Entry pakai diskon besar di marketplace, Core pakai bundling di toko offline maupun online, sedangkan Premium dipromosikan lewat campaign eksklusif dengan influencer.
-Penerapan piramida DIKW pada produk kosmetik membantu perusahaan mengubah data biasa menjadi strategi berbisnis untuk membantu meningkatkan penjualan. Dengan langkah ini, setiap kategori produk dapat menjalankan perannya masing-masing secara optimal.
+🌸 Implementasi Piramid DIKW pada Produk Kosmetik
+
+📊 Data
+Perusahaan kosmetik mengumpulkan data dasar, misalnya:
+💄 Harga lip cream
+🧴 Biaya produksi serum
+📦 Jumlah unit skincare yang terjual
+⭐ Rating bintang dari para pembeli
+📑 Daftar harga dan klaim produk dari merek pesaing
+
+📑 Information
+Data tersebut lalu diolah menjadi informasi, contohnya:
+📂 Membagi produk ke kategori:
+🪞 Entry → lip balm murah Rp20–50 ribu
+💧 Core → serum Rp100–150 ribu
+👑 Premium → moisturizer Rp400 ribu ke atas
+💹 Menghitung margin/persentase keuntungan tiap produk
+🗣️ Merangkum ulasan pelanggan (“terasa lengket” / “ringan di kulit”)
+⚖️ Membandingkan posisi harga dengan merek kompetitor
+
+🧠 Knowledge
+Dari informasi tadi muncul pola, misalnya:
+💄 Lip balm Entry → paling laris tapi untung kecil
+💧 Serum Core → paling viral + repeat order tinggi
+👑 Moisturizer Premium → sedikit terjual tapi meningkatkan citra mewah
+
+🎯 Wisdom
+Berdasarkan pengetahuan itu, perusahaan membuat keputusan strategis:
+💄 Lip balm Entry → tetap dijual untuk tarik pembeli baru
+💧 Serum Core → jadi fokus utama karena paling menguntungkan
+👑 Ampoule Premium → dipasarkan terbatas untuk menjaga citra brand
+🔖 Strategi promosi:
+🛒 Entry → diskon besar di marketplace
+🛍️ Core → bundling di toko offline & online
+🌟 Premium → campaign eksklusif dengan influencer
+
+✅ Kesimpulan
+Penerapan piramida DIKW membantu perusahaan mengubah data mentah ➝ informasi ➝ pengetahuan ➝ kebijaksanaan (strategi).
+Dengan langkah ini, setiap kategori produk menjalankan perannya secara optimal, sehingga penjualan meningkat dan brand makin kuat di pasar. ✨
